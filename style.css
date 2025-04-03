@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #b1b5c7;
+  background-color: #d5d9e9;
   margin: 0;
   padding: 0;
   display: flex;
@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  background-color: #e8bfbf;
+  background-color: #4545c0;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
